@@ -1,6 +1,9 @@
 # Partenon
 
-Brief analysis on the data set published by the Higher Electoral Court of Brazil about the first round of presidential elections, taken place in October 7th of 2018.
+Partenon é um templo dedicado à deusa grega Atena, da Grécia Antiga. Por estar de pé até hoje e ser um símbolo da democracia, milhares de turistas ainda o visitam atualmente. O nome e a sua representatividade, além da resitência diante do tempo, me serviram como inspiração para o "batismo" desse projeto.
 
-Author: Lucas Gomes Dantas
-E-mail: dantaslucas@ufrn.edu.br
+Aqui está uma breve análise sobre a base de dados publicada pelo Tribunal Superior Eleitoral (TSE) com os votos do primeiro turno das eleições presidenciais de 2018.
+
+Esta pesquisa foi realizada para a disciplina <b>IMD0033 - Probabilidade</b>, ministrada pelo professor doutor <b>Ivanovitch Medeiros Dantas da Silva</b> na <b>Universidade Federal do Rio Grande do Norte</b>, em 2018.2.
+
+Em caso de dúvidas ou sugestões, pode enviar um email para dantaslucas@ufrn.edu.br.
